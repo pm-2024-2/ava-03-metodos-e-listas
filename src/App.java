@@ -23,8 +23,12 @@ class App {
             "Marina",
             "Jovana",
             "Lauana",
-            "Tiago"
+            "Tiago",
+            "Lukas",
+            "Gabriel",
+            "Nicolas"
         ));
+
         System.out.println(presentes.size());
 
         Avaliacao.selecionaDuplasAleatoriamente(presentes);
